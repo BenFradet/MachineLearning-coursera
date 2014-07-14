@@ -1,0 +1,4 @@
+*.swp
+octave-core
+submit*
+*.mat
