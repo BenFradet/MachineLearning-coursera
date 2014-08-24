@@ -2,3 +2,6 @@
 octave-core
 submit*
 *.mat
+.DS_Store
+*.png
+*.jpg
